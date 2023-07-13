@@ -5,6 +5,8 @@
 
 > asynchronous cross platform process spawning
 
+![](assets/ncp-promise.png)
+
 ## Features
 
 - windows support
